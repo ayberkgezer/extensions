@@ -79,6 +79,10 @@ version = "0.0.1"
 submodule = "extensions/aquarium-theme"
 version = "0.7.1"
 
+[arctic-depth]
+submodule = "extensions/arctic-depth"
+version = "1.0.0"
+
 [ariake]
 submodule = "extensions/ariake"
 version = "0.0.1"
@@ -342,7 +346,7 @@ version = "0.2.6"
 
 [codebook]
 submodule = "extensions/codebook"
-version = "0.1.6"
+version = "0.1.7"
 
 [codesandbox-theme]
 submodule = "extensions/codesandbox-theme"
@@ -539,6 +543,11 @@ version = "0.0.4"
 [elixir]
 submodule = "extensions/elixir"
 version = "0.1.7"
+
+[elle]
+submodule = "extensions/elle"
+path = "editors/zed"
+version = "0.2.4"
 
 [elm]
 submodule = "extensions/elm"
@@ -976,6 +985,10 @@ version = "1.0.0"
 submodule = "extensions/latex"
 version = "0.1.13"
 
+[lean4]
+submodule = "extensions/lean4"
+version = "0.0.2"
+
 [leblackque]
 submodule = "extensions/leblackque"
 version = "1.0.1"
@@ -1106,6 +1119,10 @@ version = "0.1.0"
 
 [mcp-server-brave-search]
 submodule = "extensions/mcp-server-brave-search"
+version = "0.0.1"
+
+[mcp-server-context7]
+submodule = "extensions/mcp-server-context7"
 version = "0.0.1"
 
 [mcp-server-exa-search]

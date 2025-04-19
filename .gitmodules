@@ -78,6 +78,10 @@
 	path = extensions/aquarium-theme
 	url = https://github.com/biaqat/aquarium-theme-zed.git
 
+[submodule "extensions/arctic-depth"]
+	path = extensions/arctic-depth
+	url = https://github.com/MarvellinusVincent/Arctic-Depth-Zed.git
+
 [submodule "extensions/ariake"]
 	path = extensions/ariake
 	url = https://github.com/artivilla/zed-ariake-theme
@@ -534,6 +538,10 @@
 	path = extensions/elixir
 	url = https://github.com/zed-extensions/elixir.git
 
+[submodule "extensions/elle"]
+	path = extensions/elle
+	url = https://github.com/acquitelol/elle.git
+
 [submodule "extensions/elm"]
 	path = extensions/elm
 	url = https://github.com/zed-extensions/elm.git
@@ -954,6 +962,10 @@
 	path = extensions/latex
 	url = https://github.com/rzukic/zed-latex.git
 
+[submodule "extensions/lean4"]
+	path = extensions/lean4
+	url = https://github.com/blackbird314/zed-lean4.git
+
 [submodule "extensions/leblackque"]
 	path = extensions/leblackque
 	url = https://github.com/gx0r/leblackque.git
@@ -1085,6 +1097,10 @@
 [submodule "extensions/mcp-server-brave-search"]
 	path = extensions/mcp-server-brave-search
 	url = https://github.com/zed-extensions/mcp-server-brave-search.git
+
+[submodule "extensions/mcp-server-context7"]
+	path = extensions/mcp-server-context7
+	url = https://github.com/akbxr/zed-mcp-server-context7
 
 [submodule "extensions/mcp-server-exa-search"]
 	path = extensions/mcp-server-exa-search
